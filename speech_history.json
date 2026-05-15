@@ -1,36 +1,71 @@
 {
   "history": [
     {
+      "text": "Mitä kuuluu mies?",
+      "language": "French",
+      "display_lang": "French"
+    },
+    {
+      "text": "Miten menee?",
+      "language": "English",
+      "display_lang": "English"
+    },
+    {
+      "text": "Mitä jäbä?",
+      "language": "French",
+      "display_lang": "French"
+    },
+    {
+      "text": "Terve",
+      "language": "French",
+      "display_lang": "French"
+    },
+    {
+      "text": "Moikka",
+      "language": "French",
+      "display_lang": "French"
+    },
+    {
+      "text": "Nappaa se anaalitapp tai miksi sitä nyt haluat kutsua mukaan niin voit pelastaa meidät jos ollaan kuolemassa.",
+      "language": "Romanian",
+      "display_lang": "Romanian"
+    },
+    {
+      "text": "Mistäpäin espanjaa oot?",
+      "language": "Spanish",
+      "display_lang": "Spanish"
+    },
+    {
+      "text": "Mitä hemmettiä sä kuuntelet siellä",
+      "language": "German",
+      "display_lang": "German"
+    },
+    {
+      "text": "Ei se haittaa.",
+      "language": "German",
+      "display_lang": "German"
+    },
+    {
+      "text": "Ikävä kuulla! Ja kyllä asiat toivottavasti paranee teillä vielä!",
+      "language": "Spanish",
+      "display_lang": "Spanish"
+    }
+  ],
+  "favorites": [
+    {
       "text": "Miten kaikki voi olla saksasta täällä? Miten se on mahdollista?",
       "language": "German",
       "display_lang": "German"
     },
     {
-      "text": "Herätys kaveri, valot päälle!",
+      "text": "Moikka! Mitä kuuluu? Kaikki hyvin Saksassa?",
       "language": "German",
       "display_lang": "German"
-    },
-    {
-      "text": "Jokohan tämä nyt toimii",
-      "language": "Russian",
-      "display_lang": "Russian"
-    },
-    {
-      "text": "Itku pitkästä ilosta",
-      "language": "German",
-      "display_lang": "German"
-    },
-    "Itku pitkästä ilosta",
-    "siitepöly oli se sana",
-    "21-vuotias Luca istui saksalaisessa asunnossaan, ja vaikka ikä oli tuonut rauhallisuutta, hänen refleksinsä olivat terävämmät kuin koskaan. Hän ei ollut enää vain lupaava nuori, vaan kokenut ammattilainen, jota koko Fortnite-yhteisö kunnioitti.\nKun turnauksen ratkaiseva hetki koitti, Luca ei hätkähtänyt. Hän luki vastustajan liikkeet kuin avointa kirjaa ja päätti pelin tyylikkäällä rakennuskombolla. Voiton jälkeen hän sulki koneen; 21-vuotiaana hän tiesi, että mestaruus vaati tasapainoa – taitoa pelissä ja malttia oikeassa elämässä.",
-    "Hän ei ole penaalin terävin kynä",
-    "Olipa kerran prinssi. Sen pituinen se!",
-    "Tiedäktö bändin poets of falling?"
+    }
   ],
-  "favorites": [],
-  "selected_input_device": 10,
+  "selected_input_device": 3,
   "selected_output_devices": [
-    16,
-    21
+    6,
+    7
   ]
 }
